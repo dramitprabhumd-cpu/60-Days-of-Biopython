@@ -44,5 +44,5 @@ The goal is to build a robust portfolio of Google Colab notebooks that demonstra
 ---
 
 ## 👋 Connect with me
-* **LinkedIn:** [Your Name](Your_LinkedIn_Link)
-* **Portfolio Site:** [Your Link/Blog]
+* **LinkedIn:** Dr. Amit Prabhu (https://www.linkedin.com/in/amit-prabhu-8515153a2)
+* **Portfolio Site:** 
