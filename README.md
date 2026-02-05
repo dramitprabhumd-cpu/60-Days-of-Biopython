@@ -31,7 +31,8 @@ The goal is to build a robust portfolio of Google Colab notebooks that demonstra
 * [Day 02: Transcription & Translation](./Phase_1/Day02_Central_Dogma.ipynb) ✅
 * [Day 03: GC Content Calculation](./Phase_1/Day03_GC_content.ipynb) ✅
 * [Day 04: Reverse Complements](./Phase_1/Day04_Reverse_Complement.ipynb) ✅
-* [Day 05: Melting Temperature Calculation](./Phase-1/Day-05.ipynb) ⚪
+* [Day 05: Melting Temperature Calculation](./Phase_1/Day05_Melting_Temperature.ipynb) ✅
+* [Day 06: Molecular Weight Calculation](./Phase_1/Day05_Molecular_Weight)⚪
 * ... (Continue for all 60 days)
 
 ---
